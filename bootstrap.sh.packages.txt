@@ -1,0 +1,9 @@
+bash-completion
+bind9-dnsutils
+bzip2
+grub-pc
+less
+manpages
+openssh-server
+qemu-guest-agent
+sudo
